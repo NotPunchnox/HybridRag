@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "speaker": "user",
+      "message": "Bonjour, comment tu peux m'aider aujourd'hui?"
+    },
+    {
+      "id": 2,
+      "speaker": "ai",
+      "message": "Bonjour! Je peux vous aider avec des questions de programmation, expliquer des concepts techniques, ou générer du code. Qu'est-ce qui vous intéresse?"
+    },
+    {
+      "id": 3,
+      "speaker": "user",
+      "message": "Je dois créer une API REST en Python. Par où je commence?"
+    },
+    {
+      "id": 4,
+      "speaker": "ai",
+      "message": "Je recommande d'utiliser Flask ou FastAPI. FastAPI est plus moderne et performant. Vous auriez besoin de pip install fastapi uvicorn, puis créer une application avec les routes de base."
+    },
+    {
+      "id": 5,
+      "speaker": "user",
+      "message": "D'accord, et pour la base de données?"
+    },
+    {
+      "id": 6,
+      "speaker": "ai",
+      "message": "Vous pouvez utiliser SQLAlchemy comme ORM avec PostgreSQL, MySQL ou SQLite. C'est très flexible et bien intégré avec FastAPI."
+    },
+    {
+      "id": 7,
+      "speaker": "user",
+      "message": "Merci pour ton aide!"
+    },
+    {
+      "id": 8,
+      "speaker": "ai",
+      "message": "De rien! N'hésitez pas si vous avez d'autres questions."
+    }
+  ]

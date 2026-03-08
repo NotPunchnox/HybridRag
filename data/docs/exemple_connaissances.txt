@@ -1,0 +1,33 @@
+# Connaissances Python
+
+## Framework Web
+- Django: Framework web full-stack avec ORM, admin panel, authentification
+- FastAPI: Framework moderne asynchrone pour APIs REST, validation Pydantic
+- Flask: Micro-framework léger pour applications web simples
+
+## Data Science & ML
+- Pandas: Manipulation et analyse de données avec DataFrames
+- NumPy: Calculs numériques et opérations matricielles
+- Scikit-learn: Apprentissage automatique (classification, régression, clustering)
+- TensorFlow: Libraire deep learning par Google
+- PyTorch: Framework deep learning flexible et dynamique
+
+## Base de Données
+- SQLAlchemy: ORM Python pour requêtes SQL
+- PostgreSQL: Base de données relationnelle robuste
+- MongoDB: Base de données NoSQL orientée documents
+- Redis: Stockage clé-valeur en mémoire rapide
+
+## Outils & DevOps
+- Docker: Containerisation d'applications
+- Pytest: Framework de test unitaire
+- Poetry: Gestion des dépendances et packaging
+- GitHub Actions: CI/CD automatisé
+
+## Async
+- asyncio: Programmation asynchrone native Python
+- aiohttp: Requêtes HTTP asynchrones
+
+## Versions
+- Python 3.11: Dernière version stable (2024)
+- Type hints: Annotations de types pour meilleure maintenabilité
